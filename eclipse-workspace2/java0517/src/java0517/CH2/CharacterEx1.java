@@ -1,9 +1,10 @@
 package java0517.CH2;
 
+
 public class CharacterEx1 {
 
 	public static void main(String[] args) {
-		//¹®ÀÚÇü! not ¹®ÀÚ¿­!
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½! not ï¿½ï¿½ï¿½Ú¿ï¿½!
 		char ch1 = 'A';
 		System.out.println(ch1);
 		System.out.println((int)ch1); // Casting
@@ -16,7 +17,7 @@ public class CharacterEx1 {
 		System.out.println((char)ch3);
 		
 		
-		// ¹üÀ§
+		// ï¿½ï¿½ï¿½ï¿½
 		int ch4 = 32799;
 		System.out.println(ch4);
 		System.out.println((char)ch4);	

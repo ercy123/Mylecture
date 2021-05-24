@@ -7,8 +7,8 @@ public class Bear_Sesame {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("ÀÔ·Â");
-		String korean[] = {"°õµ¹ÀÌ","º¹µ¹ÀÌ","ÈòµÕÀÌ","±ú¼Ò±İ","±î¸¸Äá"};
+		System.out.println("ì…ë ¥");
+		String korean[] = {"ê³°ëŒì´","ë³µëŒì´","í°ë‘¥ì´","ì°¸ê¹¨","ê²€ë‘¥ì´"};
 		String english[] = {"Bear","Gift","White","Sesame","Black"};
 		
 		String result = sc.nextLine();

@@ -7,7 +7,7 @@ public class Morse {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		System.out.println("¹®ÀÚ ÀÔ·Â");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½");
 		String morse = sc.nextLine();
 		String morse2[] = new String[100];
 
@@ -177,10 +177,7 @@ public class Morse {
 					break;
 				case "z":						
 					System.out.print("--..");
-					break;					
-
-					
-				
+					break;									
 			}
 			System.out.print(" ");
 		}
